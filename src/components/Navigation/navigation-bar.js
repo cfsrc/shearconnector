@@ -41,7 +41,7 @@ function NavigationBar({ useMetric }) {
           />
         </Switch>
       </Switch.Group>
-      <GithubLinkButton url="https://github.com/HyeyoungKoh/StudSteelDeck" />
+      <GithubLinkButton url="https://github.com/HyeyoungKoh/ShearStud" />
     </div>
   );
 }
