@@ -13,7 +13,7 @@ module.exports = {
     title: `Shear Connector Database`,
     description: `Over 600 push-out test data`,
     author: `@TWG`,
-    siteUrl: `https://github.com/HyeyoungKoh/ShearStud`,
+    siteUrl: `https://github.com/hyeyoungkoh/shearstud`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
