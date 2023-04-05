@@ -1,0 +1,4962 @@
+[
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.89370343,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.588118864,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.77559313,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.843582004,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.862609112,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.855680073,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.829580258,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.77165612,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.800060977,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.7637821,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.751736351,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.62204974,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.650658466,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.62598675,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.580016185,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.64173479,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.738244206,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.67716788,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.537465115,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.63779778,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.894660353,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.67716788,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.90640002,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.66929386,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.660133995,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.64960881,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.584593681,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.65354582,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.494581549,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.70078994,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.685768721,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.67323087,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.666303684,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.66929386,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.679056033,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.66535685,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.86703458,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.62204974,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.849389132,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.65748283,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.662389899,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.85827034,
+    "t": 0.03543309,
+    "d_d": 3.149608,
+    "P_e": 0.464390007,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.66142038,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.993528532,
+    "Reference": "Nellinger (2015)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.6299243,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.910314863,
+    "Reference": "Nellinger (2015)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.585731695,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.546343407,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.556608234,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.87401838,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.629814749,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.87795539,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.592256624,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.86614436,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.581753081,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.88582941,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.558040535,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.87401838,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.718617435,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.85039632,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.710182772,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.90551446,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.738192221,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.89370343,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.594962082,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.85433333,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.695197171,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.82283725,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.800798901,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.83464828,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.828521488,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.821325491,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.882751826,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8031522,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.942541804,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.82283725,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.879604985,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.725409778,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.74803406,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 1.012616399,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.7637821,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.971892575,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 1.052303617,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.993068964,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.81496323,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.746377331,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.81496323,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.866650707,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.81496323,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.823147571,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.79527818,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.977541053,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.81496323,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.958774995,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.81496323,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.917830867,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8031522,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.743913203,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8031522,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.208386929,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.81496323,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.421113378,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79921519,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.408303884,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.400899552,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.81890024,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.538620121,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8031522,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.373281395,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.85433333,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.206423404,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.81496323,
+    "t": 0.0393701,
+    "d_d": 2.2047256,
+    "P_e": 1.138356714,
+    "Reference": "Lawson et al. (2017)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.728706956,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.696146316,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.741232459,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.739004137,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.8058323,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.747718634,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.913890898,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.771867552,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.879873006,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.911707173,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.858285047,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.8582698,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.946340458,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.72047445,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.729305342,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.72047445,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.910991278,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.72047445,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.907668342,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.936348832,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 1.017724977,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.993002635,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.898208405,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.883041214,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8818924,
+    "t": 0.035039389,
+    "d_d": 2.2834658,
+    "P_e": 0.933502271,
+    "Reference": "Vigneri (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.677889207,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.808426687,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.922135939,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.902678662,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.737755078,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.674345203,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.876894875,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.814382582,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.932094489,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.070910487,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 2.80315112,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.203826764,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 2.80315112,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.929968738,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 2.80315112,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.870208107,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.822873434,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.068956228,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.775939983,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.800551122,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.580625986,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.95109022,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.061348121,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.180871393,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.003888351,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.801338679,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.5118113,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.753100847,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 1/2 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.922596229,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.86310064,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.005102307,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.420944399,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.948710146,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.13308672,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.867428063,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.693294633,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.903058043,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.953387706,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.005845887,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.856154612,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.01908511,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.175088199,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.206725189,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.671789274,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.820487023,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.6299216,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.815353804,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 5/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.729524013,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.754854708,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.669801861,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.337188289,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.459601442,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.700231233,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.784554307,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.831573163,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.642531018,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.520177022,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.560501586,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.855364383,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 1.149096895,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 1.34778892,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.468922111,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.424589396,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.55368052,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.957580746,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 1.18441815,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.393701,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 1.145349493,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.500537077,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.83701919,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.8031522,
+    "t": 0.037401595,
+    "d_d": 3.00000162,
+    "P_e": 0.766154622,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.80315274,
+    "t": 0.037401595,
+    "d_d": 4.50000243,
+    "P_e": 0.519483924,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.80315274,
+    "t": 0.037401595,
+    "d_d": 4.50000243,
+    "P_e": 0.45809533,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.80315274,
+    "t": 0.037401595,
+    "d_d": 4.50000243,
+    "P_e": 0.441179362,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 7.80315382,
+    "t": 0.037401595,
+    "d_d": 6.00000324,
+    "P_e": 0.399511184,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 7.80315382,
+    "t": 0.037401595,
+    "d_d": 6.00000324,
+    "P_e": 0.35675283,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 7.80315382,
+    "t": 0.037401595,
+    "d_d": 6.00000324,
+    "P_e": 0.32257214,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.4504666,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.039203437,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.587389375,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.065945356,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.892122879,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.124508088,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.801091518,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.086390487,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.581999531,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 0.621905109,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.193539555,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.80315166,
+    "t": 0.037401595,
+    "d_d": 2.00000108,
+    "P_e": 1.147414926,
+    "Reference": "Rambo-Roddenberry (2002)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.02362206,
+    "d_d": 2.1653555,
+    "P_e": 0.817850284,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.1653555,
+    "P_e": 0.940527826,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.02362206,
+    "d_d": 2.1653555,
+    "P_e": 0.909858441,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.1653555,
+    "P_e": 1.216552297,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.118113,
+    "t": 0.0393701,
+    "d_d": 2.1653555,
+    "P_e": 0.928719817,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.1653555,
+    "P_e": 1.251781639,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.1653555,
+    "P_e": 1.522437129,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.0000027,
+    "t": 0.029527575,
+    "d_d": 3.0708678,
+    "P_e": 1.154872085,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.0000027,
+    "t": 0.029527575,
+    "d_d": 3.0708678,
+    "P_e": 1.151407469,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.0000027,
+    "t": 0.0393701,
+    "d_d": 3.0708678,
+    "P_e": 0.94699511,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.0000027,
+    "t": 0.0393701,
+    "d_d": 3.0708678,
+    "P_e": 1.025798146,
+    "Reference": "Ernst (2006)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.086770882,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.954947045,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.103090834,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.319670931,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.287732331,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.390760075,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.38335696,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.229650632,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.221668849,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.65450394,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.711978097,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.753499782,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.623390961,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.541931525,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.736529066,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.842602282,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.784289557,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.830320095,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.615471293,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.734266304,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.752368401,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.879208677,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.797608917,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.898746647,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.710770314,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.635528088,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.52400836,
+    "Reference": "Smith and Couchman (2010)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 1.070872715,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 1.150101961,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 0.943083608,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 0.766734641,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.677282266,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.690061177,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 1.044863873,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 0.756511512,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 0.797404027,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 1.009533944,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.362206,
+    "P_e": 0.958418301,
+    "Reference": "Roik and Burkner (1981)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.905515,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.472819695,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.905515,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.491988061,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.568661525,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.485598606,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.905515,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 1.047870676,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.905515,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 1.003144489,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.971197212,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 0.536714249,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 0.626166623,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 0.504766972,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 0.587829891,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 0.93286048,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 0.894523748,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 1.009533944,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 1.086207408,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 1.079817953,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 1.086207408,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 1.108758427,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.781572963,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.915012249,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.756903515,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.1732306,
+    "P_e": 0.812970442,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 1.009533944,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.9212625,
+    "P_e": 0.447261874,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 4.330711,
+    "P_e": 0.587829891,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 6.8897675,
+    "t": 0.029527575,
+    "d_d": 5.3543336,
+    "P_e": 0.510191981,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 7.87402,
+    "t": 0.029527575,
+    "d_d": 5.3543336,
+    "P_e": 0.454988402,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 7.87402,
+    "t": 0.029527575,
+    "d_d": 5.3543336,
+    "P_e": 0.437956751,
+    "Reference": "Roik and Burkner (1980)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.7086645,
+    "t": 0.029527575,
+    "d_d": 3.2677183,
+    "P_e": 0.811726957,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.7086645,
+    "t": 0.029527575,
+    "d_d": 3.2677183,
+    "P_e": 0.740095426,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.7086645,
+    "t": 0.029527575,
+    "d_d": 3.2677183,
+    "P_e": 0.676398688,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.7086645,
+    "t": 0.029527575,
+    "d_d": 3.2677183,
+    "P_e": 0.727962714,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.8740173,
+    "P_e": 0.81765812,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 2.8740173,
+    "P_e": 0.961153436,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.7086645,
+    "t": 0.0393701,
+    "d_d": 2.8740173,
+    "P_e": 0.835337214,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.8740173,
+    "P_e": 0.627055382,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 2.8740173,
+    "P_e": 0.476967236,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 5.7086645,
+    "t": 0.0393701,
+    "d_d": 2.8740173,
+    "P_e": 0.631659313,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 2.755907,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 0.944155089,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.074557461,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 0.690589628,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.13588182,
+    "Reference": "Konrad (2011)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 0.958556302,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 0.985218133,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 0.969982801,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.118527288,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.122336121,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.239140333,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.292463994,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.305160104,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.297542438,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.782533839,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.830779057,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.675886515,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.034645688,
+    "d_d": 1.574804,
+    "P_e": 0.978870078,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.034645688,
+    "d_d": 1.574804,
+    "P_e": 0.978870078,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.034645688,
+    "d_d": 1.574804,
+    "P_e": 1.22263539,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034645688,
+    "d_d": 1.574804,
+    "P_e": 1.145189119,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034645688,
+    "d_d": 1.574804,
+    "P_e": 1.080438958,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034645688,
+    "d_d": 1.574804,
+    "P_e": 1.12106651,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 2.3228359,
+    "P_e": 0.655048108,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 2.3228359,
+    "P_e": 0.690634222,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 2.3228359,
+    "P_e": 0.988503181,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.0393701,
+    "d_d": 2.3228359,
+    "P_e": 0.648458086,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.0393701,
+    "d_d": 2.3228359,
+    "P_e": 0.682726197,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.9212625,
+    "t": 0.0393701,
+    "d_d": 2.3228359,
+    "P_e": 0.735446366,
+    "Reference": "Bode and Kunzel (1999)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.086577046,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.019857403,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.02938878,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.105639801,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.086577046,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.239079087,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.057982913,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.096108423,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.162828067,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.172359444,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 1.003496054,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 0.905022142,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 0.994117586,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 0.961292949,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.9212625,
+    "t": 0.029527575,
+    "d_d": 2.0078751,
+    "P_e": 0.984739118,
+    "Reference": "Bode and Kunzel (1987)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.525915022,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.706841353,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.752012707,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.738401073,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.815854888,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.697686625,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.735389649,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.93701,
+    "t": 0.029527575,
+    "d_d": 2.2834658,
+    "P_e": 0.69985485,
+    "Reference": "Cashell and Baddoo (2013)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.927575642,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.902667596,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.03543309,
+    "d_d": 2.1653555,
+    "P_e": 1.103426449,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.03543309,
+    "d_d": 2.1653555,
+    "P_e": 1.095954035,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.859825756,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.866800009,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.62605093,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.666691021,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.882990239,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.04724412,
+    "d_d": 3.149608,
+    "P_e": 0.840646561,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.620487108,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.650725271,
+    "Reference": "Yuan (1996)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.919041467,
+    "Reference": "Hicks (2009)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.965492784,
+    "Reference": "Hicks (2009)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.962888037,
+    "Reference": "Hicks (2009)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.555787831,
+    "Reference": "Hicks (2009)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.590951912,
+    "Reference": "Hicks (2009)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.665295724,
+    "Reference": "Hicks (2009)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.870729082,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.938715809,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.821376333,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.849704135,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035826791,
+    "d_d": 2.00000108,
+    "P_e": 0.900356325,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035826791,
+    "d_d": 2.00000108,
+    "P_e": 0.850873632,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.036614193,
+    "d_d": 2.00000108,
+    "P_e": 0.78148351,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.036614193,
+    "d_d": 2.00000108,
+    "P_e": 0.809291536,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 2.80315112,
+    "t": 0.035039389,
+    "d_d": 1.50000081,
+    "P_e": 0.600601394,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 2.80315112,
+    "t": 0.033858286,
+    "d_d": 1.50000081,
+    "P_e": 0.678567823,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 2.80315112,
+    "t": 0.03543309,
+    "d_d": 1.50000081,
+    "P_e": 1.065281312,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 2.80315112,
+    "t": 0.035039389,
+    "d_d": 1.50000081,
+    "P_e": 1.064761536,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.03543309,
+    "d_d": 2.00000108,
+    "P_e": 0.714900179,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035039389,
+    "d_d": 2.00000108,
+    "P_e": 0.984456114,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035826791,
+    "d_d": 2.00000108,
+    "P_e": 0.857318856,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035039389,
+    "d_d": 2.00000108,
+    "P_e": 0.869377664,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.03543309,
+    "d_d": 2.00000108,
+    "P_e": 0.791203324,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.03543309,
+    "d_d": 2.00000108,
+    "P_e": 0.859605872,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035826791,
+    "d_d": 2.00000108,
+    "P_e": 0.76531847,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.03543309,
+    "d_d": 2.00000108,
+    "P_e": 0.805964968,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.884918972,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.858410386,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.845260049,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.035826791,
+    "d_d": 3.00000162,
+    "P_e": 0.949319243,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035826791,
+    "d_d": 2.00000108,
+    "P_e": 1.085708517,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.035826791,
+    "d_d": 2.00000108,
+    "P_e": 1.012212163,
+    "Reference": "Sublett (1991)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.993282117,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.819615718,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.881275443,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.854573215,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.938450825,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.961076377,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.92479396,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.974733241,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.95466333,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.973208574,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 1.019571684,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.826725921,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.83152201,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.855982066,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.659702105,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.771211185,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.976004205,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.954661607,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.858739818,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.900825503,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.900663942,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.968324053,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.786793936,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.631884786,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.621056116,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.706029332,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.031889781,
+    "d_d": 2.00000108,
+    "P_e": 0.655070881,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.031889781,
+    "d_d": 2.00000108,
+    "P_e": 0.724756562,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.031889781,
+    "d_d": 2.00000108,
+    "P_e": 0.774058863,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.040157502,
+    "d_d": 2.00000108,
+    "P_e": 0.604622015,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.040157502,
+    "d_d": 2.00000108,
+    "P_e": 0.838648699,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.040157502,
+    "d_d": 2.00000108,
+    "P_e": 0.770746564,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.050787429,
+    "d_d": 2.00000108,
+    "P_e": 0.85342665,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.050787429,
+    "d_d": 2.00000108,
+    "P_e": 0.682333652,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.050787429,
+    "d_d": 2.00000108,
+    "P_e": 0.776351994,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.031889781,
+    "d_d": 3.00000162,
+    "P_e": 0.788327229,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.031889781,
+    "d_d": 3.00000162,
+    "P_e": 0.66235794,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.031889781,
+    "d_d": 3.00000162,
+    "P_e": 0.831845746,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.031889781,
+    "d_d": 3.00000162,
+    "P_e": 0.843912798,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.031889781,
+    "d_d": 3.00000162,
+    "P_e": 0.717846812,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.8031522,
+    "t": 0.031889781,
+    "d_d": 3.00000162,
+    "P_e": 0.848080269,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.842193309,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.799508113,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.30315139,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.83260113,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.926609312,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 1.063519962,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 3.80315166,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.850520479,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 0.993946221,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 1.100347466,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.75196891,
+    "h_s": 4.30315193,
+    "t": 0.025196864,
+    "d_d": 2.00000108,
+    "P_e": 1.089813861,
+    "Reference": "Lyons (1994)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.134173023,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.155702595,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.123287284,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.263713314,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.220533217,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.252948528,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.81496269,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.209768431,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.79921465,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.166467381,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.81496269,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.263713314,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.31777915,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.296128625,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.35019446,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.89370289,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.01657147,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.88189186,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.029235925,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.89370289,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.118171698,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.86220681,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.102798515,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.85433279,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.066024843,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7795296,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.794221088,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.79527764,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.881311014,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.81102568,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.8620059,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.76378156,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.983996871,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.75197053,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.999527727,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.79921465,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.991718916,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.77559313,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 1.007228081,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.987922967,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.79527818,
+    "t": 0.04724412,
+    "d_d": 2.362206,
+    "P_e": 0.968509397,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.83071073,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.322733889,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.79527764,
+    "t": 0.04724412,
+    "d_d": 2.0078751,
+    "P_e": 1.249838317,
+    "Reference": "Mottram and Johnson (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8031522,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.531121596,
+    "Reference": "Jayas and Hosain (1987)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.8031522,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.729888782,
+    "Reference": "Jayas and Hosain (1987)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034251987,
+    "d_d": 2.362206,
+    "P_e": 0.680837643,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034251987,
+    "d_d": 2.362206,
+    "P_e": 0.900294136,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034251987,
+    "d_d": 2.362206,
+    "P_e": 0.811362005,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034251987,
+    "d_d": 2.362206,
+    "P_e": 1.002602663,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034251987,
+    "d_d": 2.362206,
+    "P_e": 1.007409805,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.034251987,
+    "d_d": 2.362206,
+    "P_e": 0.701707525,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.046850419,
+    "d_d": 3.16929305,
+    "P_e": 0.696095094,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.046850419,
+    "d_d": 3.16929305,
+    "P_e": 1.155386183,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.046850419,
+    "d_d": 3.16929305,
+    "P_e": 1.000486475,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.046850419,
+    "d_d": 3.16929305,
+    "P_e": 0.762104165,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.712020786,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.716542555,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.799406589,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.553944464,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.600758066,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.484268405,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.598531204,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.698863739,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.036220492,
+    "d_d": 2.1653555,
+    "P_e": 0.591850616,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.918582177,
+    "Reference": "Hicks (2007)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 0.934965565,
+    "Reference": "Hicks (1997)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.168985069,
+    "Reference": "Hicks (1997)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 1.023191405,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.996249201,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.976654872,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.766484074,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.774840479,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 1.042418341,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 1.027232735,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 1.030171885,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.3858286,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.004209398,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.3858286,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 0.993187587,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.3858286,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.053195222,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.3858286,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.102901426,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.3858286,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.084171552,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.3858286,
+    "t": 0.0393701,
+    "d_d": 2.0078751,
+    "P_e": 1.038499475,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 1.163413327,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 1.168924232,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 1.238116709,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.741126706,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.740319881,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.751845957,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.651943691,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.703522882,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.3700811,
+    "t": 0.0393701,
+    "d_d": 2.9921276,
+    "P_e": 0.707412933,
+    "Reference": "Robinson (1988)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 3.16929305,
+    "P_e": 0.572154428,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 3.16929305,
+    "P_e": 0.449363295,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.0393701,
+    "d_d": 3.16929305,
+    "P_e": 0.4833268,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.180884937,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.998004527,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 1.152146587,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.556947253,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.558577661,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.611946338,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.608605601,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.566486736,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.599734265,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.783139141,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.819619512,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.03543309,
+    "d_d": 2.362206,
+    "P_e": 0.825325939,
+    "Reference": "Hicks (2020)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.132160371,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.130984711,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.096890577,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 0.979324599,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 0.985202898,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 0.92054161,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 0.931122548,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.175659783,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.063972103,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.126282072,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.078080021,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.175659783,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.178011102,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.275590864,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.175659783,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.143916969,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.187416381,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.152146587,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.181538082,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.116876794,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.048688526,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 0.899379734,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.105120196,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.073377382,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.007540434,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.066323423,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.042810227,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.13686301,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.146268288,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.146268288,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.332022534,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.257955968,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.04724412,
+    "d_d": 1.968505,
+    "P_e": 1.337900833,
+    "Reference": "Lloyd and Wright (1990)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 1.968505,
+    "P_e": 0.697097095,
+    "Reference": "Shen and Chung (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 1.968505,
+    "P_e": 0.755741771,
+    "Reference": "Shen and Chung (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 1.968505,
+    "P_e": 0.693777585,
+    "Reference": "Shen and Chung (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 1.968505,
+    "P_e": 0.730292194,
+    "Reference": "Shen and Chung (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 3.7401595,
+    "t": 0.0393701,
+    "d_d": 1.968505,
+    "P_e": 0.796682394,
+    "Reference": "Shen and Chung (2017)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 1.053846363,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 1.045832322,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 1.033811261,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.770762158,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.766048016,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.768405087,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 1.057853383,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 1.12997975,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 1.085902526,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.855616707,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.782547512,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.843831353,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.965691914,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 1.063863914,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.829453221,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.53151947,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.658801294,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.7480319,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.622266696,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 3/4 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.941950228,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.882216799,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.900596315,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.533366365,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.573909417,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 7/8 inch"
+  },
+  {
+    "d_s": 0.8661422,
+    "h_s": 4.724412,
+    "t": 0.029527575,
+    "d_d": 3.149608,
+    "P_e": 0.66310413,
+    "Reference": "Russell et al. (2021)",
+    "Group": "Stud diameter = 7/8 inch"
+  }
+]

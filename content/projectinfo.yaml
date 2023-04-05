@@ -1,0 +1,19 @@
+title: Shear Connectors Welded Through Steel Deck Database
+about:
+    - The objective of this project is to parse the existing testing data into subsets in order to examine if higher available strength is available in specific subsets.
+    - AISC 360-22 specifically permits a performance-based alternative for the design of shear connectors.
+    - 551 push-out test data for shear studs installed through steel deck is established from the literature.
+    - The database can be used for data and reliability analysis of shear connectors.
+    - The vertical axis represents the stud strength normalized by the nominal resistance specified in AISC 360.
+
+
+team:
+    - person:
+        name: Hyeyoung Koh, PhD
+        university: University of Wisconsin-Madison
+    - person:
+        name: Hannah Blum, PhD
+        university: University of Wisconsin-Madison
+    - person:
+        name: Thomas Sputo, PE, SE, PhD
+        university: Steel Deck Institute
