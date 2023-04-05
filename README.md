@@ -3,13 +3,11 @@
 </h1>
 ## What is inside
 
-<p>This repository stores over 400 cold-formed steel coupon test curves. 
+<p>This repository stores 551 push-out test data for shear connectors installed in steel deck. 
 
-We save the data as a json file at [here](./data/all-data.json) in the data folder. 
+We save the data as a json file at [here](./data/Pe.json) in the data folder. 
 
-Note that the stress-strain curves stored in the json file have been reduced to less than 75 data points to be loadable in browser.
-
-This repository comes with a data viewer. You can use the viewer at the www.cfs-database.com.
+This repository comes with a data viewer. You can use the viewer at the .
 
 Or you clone this repository to run locally by running the following command
     

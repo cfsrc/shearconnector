@@ -8,10 +8,10 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "/ShearStud",
+  pathPrefix: "/shearstud",
   siteMetadata: {
     title: `Shear Connector Database`,
-    description: `Over 600 push-out test data`,
+    description: `Over 500 push-out test data`,
     author: `@TWG`,
     siteUrl: `https://github.com/hyeyoungkoh/shearstud`,
   },
