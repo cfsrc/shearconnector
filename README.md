@@ -1,6 +1,7 @@
 <h1 align="center">
-  Cold-Formed Steel (CFS) Material Databae
+  Shear Connector Database
 </h1>
+
 ## What is inside
 
 <p>This repository stores 551 push-out test data for shear connectors installed in steel deck. 
