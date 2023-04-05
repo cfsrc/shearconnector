@@ -8,7 +8,7 @@
 
 We save the data as a json file at [here](./data/Pe.json) in the data folder. 
 
-This repository comes with a data viewer. You can use the viewer at the .
+This repository comes with a data viewer. You can use the viewer at https://github.com/hyeyoungkoh/shearstud.
 
 Or you clone this repository to run locally by running the following command
     
@@ -46,5 +46,3 @@ Visit the data viewer at http://localhost:8000
 - M. H. Shen and K. F. Chung, "Structural behaviour of stud shear connections with solid and composite slabs under co-existing shear and tension forces," Structures Vol. 9, 2017. 
 - M. J. Russell, G. C. Clifton and J. B. Lim, "Vertical and horizontal push tests on specimens with a Trefoil decking profile," Structures,, vol. 29, pp. 1096-1110, 2021. 
 - S. J. Hicks, Private communication, University of Warwick, January 2020.
-
-"# shearstud" 
