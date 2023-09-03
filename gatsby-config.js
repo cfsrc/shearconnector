@@ -8,7 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "/shearstud",
+  pathPrefix: "/shearconnector",
   siteMetadata: {
     title: `Shear Connector Database`,
     description: `Over 500 push-out test data`,
