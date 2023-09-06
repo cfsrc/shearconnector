@@ -16,8 +16,6 @@ Or you clone this repository to run locally by running the following command
     cd shearstud/
     gatsby develop
 
-Visit the data viewer at http://localhost:8000
-
 ## References
 - M. Lawson, E. Aggelopoulos, R. Obiala, F. Hanus, C. Odenbreit, S. Nellinger, U. Kuhlmann, F. Eggert, D. Lam, X. Dai and T. Sheehan, "Development of improved shear connection rules in composite beams - Final Report," 2017.
 - S. Nellinger, "On the behaviour of shear stud connections in composite beams with deep decking. Ph.D. Dissertation," Luxembourg, 2015.
