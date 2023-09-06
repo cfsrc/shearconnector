@@ -8,7 +8,7 @@
 
 We save the data as a json file at [here](./data/Pe.json) in the data folder. 
 
-This repository comes with a data viewer. You can use the viewer at https://github.com/hyeyoungkoh/shearstud.
+This repository comes with a data viewer. You can use the viewer at https://hyeyoungkoh.github.io/shearconnector/.
 
 Or you clone this repository to run locally by running the following command
     
