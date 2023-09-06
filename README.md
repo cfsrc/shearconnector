@@ -12,7 +12,7 @@ This repository comes with a data viewer. You can use the viewer at https://hyey
 
 Or you clone this repository to run locally by running the following command
     
-    git clone https://github.com/hyeyoungkoh/shearstud.git
+    git clone https://github.com/hyeyoungkoh/shearconnector.git
     cd shearstud/
     gatsby develop
 
